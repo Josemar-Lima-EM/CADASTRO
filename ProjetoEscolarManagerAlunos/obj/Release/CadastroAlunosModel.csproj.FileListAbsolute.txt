@@ -1,0 +1,11 @@
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Release\ProjetoEscolarManagerAlunos.dll
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Release\ProjetoEscolarManagerAlunos.pdb
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\CadastroAlunosModel.csproj.CoreCompileInputs.cache
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\ProjetoEscolarManagerAlunos.dll
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\ProjetoEscolarManagerAlunos.pdb
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Release\ProjetoEscolarManagerAlunos.dll
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Release\ProjetoEscolarManagerAlunos.pdb
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\CadastroAlunosModel.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\CadastroAlunosModel.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\ProjetoEscolarManagerAlunos.dll
+F:\josemar\Git\_dev\Projeto-EM\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Release\ProjetoEscolarManagerAlunos.pdb

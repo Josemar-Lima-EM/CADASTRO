@@ -1,0 +1,13 @@
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\ProjetoEscolarManagerAlunos.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\ProjetoEscolarManagerAlunos.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.Base.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.WebBrowser.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.WebEngine.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.Base.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.WebBrowser.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\bin\Debug\EO.WebEngine.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\obj\Debug\CadastroAlunosDomain.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\obj\Debug\CadastroAlunosDomain.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\obj\Debug\CadastroAlunosDomain.csproj.CopyComplete
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.pdb

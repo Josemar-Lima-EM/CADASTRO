@@ -1,0 +1,63 @@
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe.config
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.Base.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebEngine.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.Base.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebEngine.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunoModel.FrmCadastroAlunos.resources
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.Properties.Resources.resources
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CopyComplete
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.exe
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe.config
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.dll
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.dll
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.Base.dll
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.dll
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebEngine.dll
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.Base.xml
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.xml
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\bin\Debug\EO.WebEngine.xml
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.Properties.Resources.resources
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.GenerateResource.cache
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CopyComplete
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.exe
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.FrmCadastroAlunos.resources
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe.config
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.exe
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\ProjetoEscolarManager.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.Base.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.WebEngine.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\CadastroAlunosRepositorio.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.Base.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.WebBrowser.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\bin\Debug\EO.WebEngine.xml
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.FrmCadastroAlunos.resources
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.Properties.Resources.resources
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.GenerateResource.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\CadastroAlunosWinForm.csproj.CopyComplete
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.exe
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\ProjetoEscolarManager\obj\Debug\ProjetoEscolarManager.pdb

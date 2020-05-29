@@ -1,0 +1,27 @@
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CopyComplete
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.dll
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.dll
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CopyComplete
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.dll
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosRepositorio.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosRepositorio\obj\Debug\CadastroAlunosRepositorio.csproj.CopyComplete

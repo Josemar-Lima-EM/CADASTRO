@@ -1,0 +1,6 @@
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Debug\ProjetoEscolarManagerAlunos.dll
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\bin\Debug\ProjetoEscolarManagerAlunos.pdb
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.csprojAssemblyReference.cache
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.csproj.CoreCompileInputs.cache
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.dll
+\\SRV-EM\Dados\josemar.lima\Projeto-EM\ProjetoEscolarManager\ProjetoEscolarManagerAlunos\obj\Debug\ProjetoEscolarManagerAlunos.pdb

@@ -1,0 +1,18 @@
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.dll
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.pdb
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.dll
+F:\josemar\Git\_dev\Projeto-EM-1\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\bin\Debug\CadastroAlunosDomain.pdb
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csprojAssemblyReference.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.csproj.CoreCompileInputs.cache
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.dll
+C:\Users\Escolar Manager\Desktop\Treinamento\projeto-Em\CadastroAlunosDomain\obj\Debug\CadastroAlunosDomain.pdb
